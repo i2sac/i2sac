@@ -1,5 +1,9 @@
 <img src="header.png" alt="Github Banner" width="100%"/>
 
+## 🌐 Mes réseaux
+
+[![GitHub](https://img.shields.io/badge/GitHub-i2sac-181717?logo=github&logoColor=white)](https://github.com/i2sac)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-issac-jean-samba-diouf)    [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/louisisaacpeterson)
+
 ## 💫 À propos de moi
 
 Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (promis, on a déjà débattu pendant des heures pour décider comment couper mon prénom… 😂). Développeur passionné, entrepreneur dans l’âme et créateur d’idées un peu folles, je transforme le code en art et les pixels en poésie. 🎨💻
@@ -7,7 +11,7 @@ Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diou
 Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs existent) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby**, **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (presque) autant que Kevin Hart ! 🤖🔥
 
 > Vous voyez comment c'est bruyant dans une salle de classe ? Eh bien c'est pareil dans ma tête ! Les idées fusent de partout 😜"
-> Parle-moi d'un truc que je ne connais pas et tu réveille mon enfant intérieur 😂
+> Parle-moi d'un truc que je ne connais pas et tu réveilles mon enfant intérieur 😂
 
 ---
 
@@ -16,24 +20,12 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
 <div align="center">
 
 <!-- Langages & Frameworks -->
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
-</a>
 
 <!-- Web Design -->
 <a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
@@ -98,6 +90,50 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
 - **Innover avec Fun :** Transformer chaque idée en une aventure numérique mémorable. 🚀
 - **Apprendre en S’amusant :** Faire de chaque bug une opportunité de grandir (et de rigoler un peu). 😅
 - **Collaborer et Partager :** Créer ensemble un écosystème où code, design et humour cohabitent en parfaite symbiose. 🤝💡
+
+---
+
+## 🔥 En ce moment...
+
+- **Développement Full-Stack :** Créer des applications répondant à des problèmes concrets.
+- **Design & Créativité :** Fusionner esthétique et fonctionnalité pour offrir des expériences utilisateur uniques.
+
+---
+
+## 🏆 Projets & Réalisations
+
+- **Création de sites web innovants :** Conception de plateformes qui marient design épuré et performances techniques.
+- **Contributions Open Source :** Partage de mes compétences et apprentissage continu au travers de projets collaboratifs.
+- **Promotion de l'innovation en Afrique :** Participation à des projets de solutions digitales innovants
+- **Zone01 Dakar :** Apprentissage avec des projets concrets et très très très complexes, avec les langages les plus demandés actuellement !
+
+---
+
+### ✍️ Citation Dev du jour
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citation Dev" />
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=i2sac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="i2sac GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i2sac&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2sac&theme=dark&layout=compact" alt="Top Langs" />
+</div>
+
+---
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=i2sac" alt="Trophées GitHub" />
+  </a>
+</div>
 
 ---
 
