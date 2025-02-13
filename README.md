@@ -6,9 +6,9 @@
 
 ## 💫 À propos de moi
 
-Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (promis, on a déjà débattu pendant des heures pour décider comment couper mon prénom… 😂). Développeur passionné, entrepreneur dans l’âme et créateur d’idées un peu folles, je transforme le code en art et les pixels en poésie. 🎨💻
+Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (Si vous vous demandez pourquoi `i2sac`, alors répondez-vous 😂). Développeur passionné, entrepreneur dans l’âme et créateur d’idées un peu folles, je transforme le code en art (`il ne faut pas nommer les variables n'importe comment`) et les pixels en poésie (`le end user ne voit pas le back-end guys`). 🎨💻
 
-Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs existent) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby**, **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (presque) autant que Kevin Hart ! 🤖🔥
+Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs ça peut vour rendre fou) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby**, **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (j'aimerais bien voir ça) ! 🤖🔥
 
 > Vous voyez comment c'est bruyant dans une salle de classe ? Eh bien c'est pareil dans ma tête ! Les idées fusent de partout 😜"
 > Parle-moi d'un truc que je ne connais pas et tu réveilles mon enfant intérieur 😂
