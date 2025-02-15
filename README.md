@@ -6,9 +6,9 @@
 
 ## 💫 À propos de moi
 
-Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (Si vous vous demandez pourquoi `i2sac`, alors répondez-vous 😂). Développeur passionné, entrepreneur dans l’âme et créateur d’idées un peu folles, je transforme le code en art (`il ne faut pas nommer les variables n'importe comment`) et les pixels en poésie (`le end user ne voit pas le back-end guys`). 🎨💻
+Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (Si vous vous demandez pourquoi `i2sac`, alors répondez-vous 😂). Développeur passionné, entrepreneur dans l’âme et être vivant aux idées folles, je transforme le code en art (`il ne faut pas nommer les variables n'importe comment`) et les pixels en poésie (`le end user ne voit pas le back-end guys`). 🎨💻
 
-Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs ça peut vour rendre fou) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby**, **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (j'aimerais bien voir ça) ! 🤖🔥
+Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs ça peut vous rendre fou) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby** (touti), **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en WordPress (je crée des sites et des plugins), mais aussi du machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (j'aimerais bien voir ça) ! 🤖🔥
 
 > Vous voyez comment c'est bruyant dans une salle de classe ? Eh bien c'est pareil dans ma tête ! Les idées fusent de partout 😜"
 > Parle-moi d'un truc que je ne connais pas et tu réveilles mon enfant intérieur 😂
@@ -28,53 +28,31 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
 
 <!-- Web Design -->
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="42" height="42" />
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Bootstrap" width="42" height="42" />
 
 <!-- Python & Data -->
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-</a>
 
 <!-- Base de données & Conteneurisation -->
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
-</a>
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
-</a>
 
 <!-- Outils Design -->
-<a target="_blank" href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="42" height="42" />
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="42" height="42" />
-</a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="42" height="42" />
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg" alt="Canva" width="42" height="42" />
-</a>
-</div>
 
 ---
 
 ## 🎮 Projets Ludiques & Créations
 
 - **Jeux & Fun :**  
-  Développement de jeux inspirés de Mario, Bomberman et d’autres classiques avec **JavaScript** (parce que coder, c’est aussi jouer ! 🎮), un système de gestion de voitures virtuelles avec Rust... Oh Mon Dieu `RUUUUST`... 😂😂😂 Ce langage, lorsque je l'apprenais, m'a fait me demander si vraiment je savais coder depuis tout ce temps !!! 😂😂😂 Mais actu je `Rust` tellement... 😌
+  Développement de jeux inspirés de Mario, Bomberman et d’autres classiques avec **JavaScript** (parce que coder, c’est aussi jouer ! 🎮), un système de gestion de voitures virtuelles avec Rust... Oh my `RUUUUST`... 😂😂😂 Ce langage, lorsque je l'apprenais, m'a fait me demander si vraiment je savais coder depuis tout ce temps !!! 😂😂😂 Mais actu je `Rust` tellement... 😌
   
 - **Création Graphique :**  
   Conception de logos, flyers et visuels qui donnent vie à des idées (avec Photoshop, Illustrator, XD, Figma & Canva) – de quoi transformer n’importe quel brief en chef-d’œuvre ! 🎨✨
