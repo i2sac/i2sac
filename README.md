@@ -47,6 +47,8 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg" alt="Canva" width="42" height="42" />
 
+</div>
+
 ---
 
 ## 🎮 Projets Ludiques & Créations
