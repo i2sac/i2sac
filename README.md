@@ -6,12 +6,15 @@
 
 ## 💫 À propos de moi
 
-Salut à toi, explorateur du web ! Je suis **@i2sac** – alias Louis Isaac Diouf, ou juste **Isaac** pour les intimes (Si vous vous demandez pourquoi `i2sac`, alors répondez-vous 😂). Développeur passionné, entrepreneur dans l’âme et être vivant aux idées folles, je transforme le code en art (`il ne faut pas nommer les variables n'importe comment`) et les pixels en poésie (`le end user ne voit pas le back-end guys`). 🎨💻
+Bonjour ! Je suis **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)) – développeur full-stack passionné et entrepreneur créatif, spécialisé dans la création de solutions numériques innovantes qui allient performance technique et expérience utilisateur exceptionnelle. 🎨💻
 
-Mon parcours ressemble à une aventure épique : des lignes de code écrites avec amour (et parfois un peu de rage, parce que oui, les bugs ça peut vous rendre fou) aux designs qui font sourire, je jongle entre **Rust**, **Go**, **JavaScript**, **Ruby** (touti), **PHP**, **Laravel**, et bien d’autres technologies. Sans oublier mes expériences en WordPress (je crée des sites et des plugins), mais aussi du machine learning et deep learning, qui me font rêver d’IA capable de comprendre mes blagues (j'aimerais bien voir ça) ! 🤖🔥
+**Mon expertise technique** s'étend sur un large éventail de technologies modernes : **Rust** et **Go** pour des applications performantes et sécurisées, **JavaScript** et **Dart/Flutter** pour des expériences web et mobile immersives, ainsi que **PHP/Laravel** et **Ruby** pour des solutions back-end robustes. Je maîtrise également le **Machine Learning** et le **Deep Learning**, domaines qui me permettent d'intégrer l'intelligence artificielle dans mes projets. 🤖
 
-> Vous voyez comment c'est bruyant dans une salle de classe ? Eh bien c'est pareil dans ma tête ! Les idées fusent de partout 😜"
-> Parle-moi d'un truc que je ne connais pas et tu réveilles mon enfant intérieur 😂
+Au-delà du code, je suis un créatif polyvalent : concepteur d'interfaces élégantes avec **Figma**, **Adobe XD**, et **Photoshop**, développeur de plugins WordPress personnalisés, et architecte de solutions conteneurisées avec **Docker** et **PostgreSQL**.
+
+Étudiant à **Zone01 Dakar**, je relève quotidiennement des défis techniques complexes qui affinent mes compétences en résolution de problèmes et en développement de logiciels de haute qualité.
+
+> "L'innovation naît de la curiosité. Chaque technologie inconnue est une opportunité d'apprentissage, chaque bug est une leçon déguisée." 🚀
 
 ---
 
@@ -54,41 +57,56 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
 
 ---
 
-## 🎮 Projets Ludiques & Créations
+## 🎮 Projets & Expériences Techniques
 
-- **Jeux & Fun :**  
-  Développement de jeux inspirés de Mario, Bomberman et d’autres classiques avec **JavaScript** (parce que coder, c’est aussi jouer ! 🎮), un système de gestion de voitures virtuelles avec Rust... Oh my `RUUUUST`... 😂😂😂 Ce langage, lorsque je l'apprenais, m'a fait me demander si vraiment je savais coder depuis tout ce temps !!! 😂😂😂 Mais actu je `Rust` tellement... 😌
-  
-- **Création Graphique :**  
-  Conception de logos, flyers et visuels qui donnent vie à des idées (avec Photoshop, Illustrator, XD, Figma & Canva) – de quoi transformer n’importe quel brief en chef-d’œuvre ! 🎨✨
+### 💻 Développement Full-Stack
+- **Applications Web Modernes** : Création de sites web performants et réactifs avec **JavaScript**, **PHP/Laravel**, et frameworks modernes
+- **Plugins WordPress Personnalisés** : Développement de solutions e-commerce avancées (WooCommerce, WCFM) pour améliorer l'expérience utilisateur
+- **Architecture Back-End** : Conception de systèmes robustes avec **Go** et **Rust**, incluant des serveurs TCP/IP, forums en temps réel et applications réseau
 
-- **Expérimentations IA & Data :**  
-  Plongée dans le monde fascinant du machine learning et du deep learning pour que mes projets deviennent intelligents… ou au moins, pour tenter de comprendre mais ou et donc or ni car ! 😂
+### 🎮 Projets Interactifs & Gaming
+- **Jeux Web** : Recréation de classiques comme **Mario**, **Bomberman** et **FPS Multiplayer** avec JavaScript et Rust
+- **Systèmes de Gestion** : Développement d'applications de gestion de données complexes avec interfaces utilisateurs intuitives
 
+### 🤖 Intelligence Artificielle & Data Science
+- **Machine Learning** : Implémentation de réseaux de neurones artificiels from scratch pour la prédiction de churn
+- **Deep Learning** : Projets de classification et reconnaissance de patterns avec Python et frameworks ML
+- **Visualisation de Données** : Création de dashboards interactifs pour l'analyse économique (données CEDEAO)
 
----
-
-## 🚀 Ma Vision & Mes Objectifs
-
-- **Innover avec Fun :** Transformer chaque idée en une aventure numérique mémorable. 🚀
-- **Apprendre en S’amusant :** Faire de chaque bug une opportunité de grandir (et de rigoler un peu). 😅
-- **Collaborer et Partager :** Créer ensemble un écosystème où code, design et humour cohabitent en parfaite symbiose. 🤝💡
-
----
-
-## 🔥 En ce moment...
-
-- **Développement Full-Stack :** Créer des applications répondant à des problèmes concrets.
-- **Design & Créativité :** Fusionner esthétique et fonctionnalité pour offrir des expériences utilisateur uniques.
+### 🎨 Design & Expérience Utilisateur
+- **Interface Design** : Conception de logos, flyers et identités visuelles complètes avec la suite Adobe et Figma
+- **UI/UX** : Création d'expériences utilisateur engageantes et accessibles pour applications web et mobile
 
 ---
 
-## 🏆 Projets & Réalisations
+## 🚀 Vision & Objectifs Professionnels
 
-- **Création de sites web innovants :** Conception de plateformes qui marient design épuré et performances techniques.
-- **Contributions Open Source :** Partage de mes compétences et apprentissage continu au travers de projets collaboratifs.
-- **Promotion de l'innovation en Afrique :** Participation à des projets de solutions digitales innovants
-- **Zone01 Dakar :** Apprentissage avec des projets concrets et très très très complexes, avec les langages les plus demandés actuellement !
+- **Innovation Technologique** : Développer des solutions numériques qui résolvent des problèmes réels et améliorent la vie quotidienne des utilisateurs 🚀
+- **Excellence Technique** : Maîtriser continuellement les technologies émergentes et les meilleures pratiques de développement logiciel 📚
+- **Impact Social** : Contribuer à l'écosystème tech africain en créant des opportunités et en partageant mes connaissances 🌍
+- **Collaboration Open Source** : Participer activement aux projets communautaires et partager mes créations avec la communauté mondiale 🤝
+
+---
+
+## 🔥 Actuellement...
+
+- **🎓 Formation Zone01 Dakar** : Apprentissage intensif avec des projets techniques complexes et des langages de programmation très demandés
+- **💼 Développement Full-Stack** : Création d'applications web et mobiles performantes avec Rust, Go, JavaScript et Flutter
+- **🛠️ Solutions WordPress** : Développement de plugins personnalisés pour améliorer les fonctionnalités e-commerce
+- **🤖 Exploration IA** : Intégration de machine learning dans des projets concrets pour des solutions intelligentes
+- **🎨 Design & Créativité** : Conception d'interfaces utilisateur élégantes qui allient esthétique et fonctionnalité
+
+---
+
+## 🏆 Réalisations & Contributions
+
+- **🌐 Plateformes Web Innovantes** : Conception et développement de sites web modernes alliant design soigné et performances techniques optimales
+- **🔌 Plugins WordPress Avancés** : Création de solutions e-commerce personnalisées (gestion des options produits, modales personnalisées, catégories vendor)
+- **🎮 Projets Gaming Interactifs** : Développement de jeux web inspirés de classiques (Mario, Bomberman, FPS multiplayer) avec JavaScript et Rust
+- **🤝 Contributions Open Source** : Partage actif de code et de connaissances avec la communauté des développeurs
+- **🌍 Innovation en Afrique** : Participation à des initiatives technologiques visant à résoudre des problèmes locaux par le numérique
+- **🎓 Zone01 Dakar** : Réalisation de projets techniques complexes en Go, Rust, JavaScript et autres technologies modernes
+- **📊 Projets Data Science** : Analyse et visualisation de données économiques, prédiction de churn avec réseaux de neurones artificiels
 
 ---
 
@@ -120,7 +138,17 @@ Mon parcours ressemble à une aventure épique : des lignes de code écrites ave
 
 ---
 
-📫 **Contact :** [louisisaacdf@gmail.com](mailto:louisisaacdf@gmail.com)  
-💬 Toujours partant pour une discussion, une collab' ou juste pour partager une bonne vanne geek !
+## 📫 Contact & Collaboration
 
-*Parce qu’au final, coder c’est sérieux, mais la vie est bien trop courte pour ne pas rigoler !* 😎🎉
+**Email Professionnel :** [louisisaacdf@gmail.com](mailto:louisisaacdf@gmail.com)
+
+Je suis toujours ouvert aux opportunités de collaboration, discussions techniques, et échanges sur des projets innovants. N'hésitez pas à me contacter pour :
+
+- 💼 Opportunités professionnelles et missions freelance
+- 🤝 Collaborations sur des projets open source
+- 💡 Échanges techniques et partage de connaissances
+- 🌍 Initiatives d'innovation en Afrique
+
+---
+
+*"Le code est un art, le design est une science, et l'innovation est notre mission."* 🚀✨
