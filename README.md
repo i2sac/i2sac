@@ -12,7 +12,7 @@ Bonjour ! Je suis **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)) –
 
 Au-delà du code, je suis un créatif polyvalent : concepteur d'interfaces élégantes avec **Figma**, **Adobe XD**, et **Photoshop**, développeur de plugins WordPress personnalisés, et architecte de solutions conteneurisées avec **Docker** et **PostgreSQL**.
 
-Étudiant à **Zone01 Dakar**, je relève quotidiennement des défis techniques complexes qui affinent mes compétences en résolution de problèmes et en développement de logiciels de haute qualité.
+Talent de la **Zone01 Dakar**, je relève quotidiennement des défis techniques complexes qui affinent mes compétences en résolution de problèmes et en développement de logiciels de haute qualité.
 
 > "L'innovation naît de la curiosité. Chaque technologie inconnue est une opportunité d'apprentissage, chaque bug est une leçon déguisée." 🚀
 
