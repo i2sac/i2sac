@@ -25,24 +25,32 @@
 
 ### 💫 À propos de moi
 
-Je suis **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), développeur full-stack passionné et entrepreneur créatif, spécialisé dans la création de solutions numériques innovantes qui allient performance technique et expérience utilisateur exceptionnelle.
+Je suis **Louis Issac Jean Samba Diouf** ([@i2sac](https://github.com/i2sac)), développeur Full-Stack Junior passionné par l'innovation technologique. Je conjugue expertise technique en **Go, Rust et JavaScript** avec une sensibilité design affirmée. Mon parcours allie développement backend performant, game development et création d'interfaces utilisateur intuitives.
+
+#### 🎓 Formation & Parcours
+
+**Diplômé** en Management Informatisé des Organisations et avec un **Master 1 en Intelligence Artificielle et Ingénierie des Données** (Université Iba Der Thiam de Thiès, 2020-2022), j'ai forgé mes compétences à travers des expériences en marketing digital, développement web freelance et formation intensive à **Zone01 Dakar**.
 
 #### 🎯 Expertise Technique
 
-**Mon expertise technique** couvre un large éventail de technologies modernes :
+**Mon expertise** couvre un large éventail de technologies modernes :
 
-- **🦀 Langages Systèmes** : Rust, Go pour des applications performantes, sécurisées et concurrentes
-- **🌐 Développement Web & Mobile** : JavaScript, Dart/Flutter, PHP/Laravel, Ruby pour des expériences immersives
-- **🤖 Intelligence Artificielle** : Machine Learning, Deep Learning, réseaux de neurones pour des solutions intelligentes
-- **🎨 Design & Créativité** : Figma, Adobe XD, Photoshop, Illustrator pour des interfaces élégantes
-- **🔧 DevOps & Infrastructure** : Docker, PostgreSQL, architectures conteneurisées et scalables
-- **🛒 E-commerce** : WordPress, WooCommerce, WCFM - développement de plugins personnalisés
+- **🦀 Backend Performant** : Go, Rust pour des applications sécurisées, concurrentes et à haute performance (TCP/IP, WebSocket, API RESTful, GraphQL)
+- **🌐 Frontend Moderne** : JavaScript, HTML5, CSS3, Tailwind CSS, D3.js, ECharts pour des interfaces réactives et élégantes
+- **🎮 Game Development** : Bevy, SDL2, Rapier3D, moteurs de jeu custom, physique 2D/3D, génération procédurale
+- **🎨 Design & Créativité** : Figma, Adobe XD, Photoshop, Illustrator pour des expériences UX/UI sur-mesure
+- **🔧 DevOps & Tools** : Docker, Git, Coolify, Vercel, PostgreSQL, SQLite
+- **🤖 Data Science** : Machine Learning, Deep Learning, Python, R, Data Analytics
+- **🛒 E-commerce** : WordPress, WooCommerce - développement et gestion de sites (+10 projets)
 
-#### 🏢 Parcours Professionnel
+#### 🏢 Expérience Professionnelle
 
-**Talent à Zone01 Dakar** - Formation intensive en développement logiciel et résolution de problèmes complexes, avec une approche peer-to-peer et des projets techniques challengeants.
+- **🎓 Développement Full-Stack Junior** - Zone01 Dakar (2025 - 2 ans)
+- **💻 Développeur Freelance Web & Infographie** - AFRICANTINE, Dakar (2023 - 1 an 9 mois)
+- **📊 Assistant Webmaster** (Marketing Digital & Analytique) - SOBOA, Dakar (2022 - 2 ans 6 mois)
+- **📞 Téléconseiller** - INTELCIA, Thiès (2020 - 7 mois)
 
-> "L'innovation naît de la curiosité. Chaque technologie inconnue est une opportunité d'apprentissage, chaque bug est une leçon déguisée." 🚀
+> "De la conception UX/UI à la mise en production, j'orchestre la chaîne complète pour livrer des expériences performantes et accessibles." 🚀
 
 ---
 
@@ -83,23 +91,39 @@ Je suis **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), développeur
 
 ### 🎯 Projets & Réalisations
 
-#### 💻 Développement Full-Stack
-- **Applications Web Performantes** : Conception et développement de plateformes web modernes avec JavaScript, PHP/Laravel et frameworks modernes
-- **Architecture Back-End Robuste** : Systèmes évolutifs avec Go et Rust (serveurs TCP/IP, forums en temps réel, applications réseau haute performance)
-- **Solutions E-commerce** : Plugins WordPress/WooCommerce personnalisés avec fonctionnalités avancées (gestion des options produits, interfaces vendor WCFM)
+#### 💻 Développement Backend & Architecture
+- **NetCat** - Serveur de chat TCP temps réel pour 10 utilisateurs avec goroutines, broadcasting intelligent et persistance JSON
+- **Forum** - Plateforme communautaire avec architecture MVC, authentification sécurisée, système CRUD et API RESTful containerisée
+- **Real-Time Forum** - Forum temps réel avec WebSocket, messagerie instantanée, indicateur de saisie et statut en ligne/hors ligne
+- **Push-Swap** - Algorithme de tri optimal avec deux piles, implémentation Turk avec calcul de coût minimal (700-900 opérations pour 100 nombres)
 
-#### 🎮 Projets Gaming & Interactifs
-- **Jeux Web Classiques** : Recréation de Mario, Bomberman et FPS Multiplayer avec JavaScript et Rust
-- **Applications Interactives** : Systèmes de gestion de données avec interfaces utilisateurs intuitives et réactives
+#### 🎮 Game Development
+- **Multiplayer FPS** - Jeu de tir 3D avec architecture client-serveur UDP, moteur Bevy, physique Rapier3D et génération procédurale de labyrinthes
+- **Smart Road** - Simulation de trafic routier avec IA de gestion de carrefour, détection de collisions et optimisation des flux en temps réel
+- **Bomberman DOM** - Jeu multijoueur temps réel (2-4 joueurs) avec mini-framework JS personnalisé, backend Go WebSocket et génération procédurale de maps
+- **Anachronos** - Jeu de plateforme 2D avec voyage temporel, physique réaliste, génération procédurale multi-époques et animations 60 FPS
+- **Filler** - IA de stratégie pour jeu compétitif, algorithmes de convolution, calcul parallélisé avec Rayon (< 5ms par tour)
 
-#### 🤖 Intelligence Artificielle & Data Science
-- **Réseaux de Neurones** : Implémentation from scratch pour la prédiction de churn et classification
-- **Machine Learning** : Modèles prédictifs et algorithmes d'apprentissage automatique
-- **Visualisation de Données** : Dashboards interactifs pour l'analyse économique (données CEDEAO)
+#### 🌐 Développement Web Full-Stack
+- **GraphQL Dashboard Zone01** - Tableau de bord interactif avec visualisations D3.js/ECharts, authentification JWT et requêtes GraphQL optimisées
+- **Mini Framework** - Framework JavaScript from scratch, architecture component-based, state management réactif et virtual DOM léger
+- **Landing Page DevOps 01Talent** - Plateforme de mise en avant de talents DevOps (01Talent France)
 
-#### 🎨 Design & Expérience Utilisateur
-- **Design UI/UX** : Conception d'interfaces modernes, élégantes et accessibles avec Figma et Adobe XD
-- **Identité Visuelle** : Création de logos, flyers et charte graphique complète avec la suite Adobe
+#### 💼 Projets WordPress E-commerce (+10 sites)
+- **Senegrill** - Site e-commerce restaurant sénégalais (USA) avec catalogue et paiement intégré
+- **Live Love Baking** - E-commerce pâtisserie avec gestion de commandes en ligne
+- **Yvress Boutique** - Boutique mode avec gestion d'inventaire et filtres avancés
+- **BellaShop 221** - E-commerce cosmétiques avec système de recommandation
+- **S2 Baking Tools** - Outils de pâtisserie professionnelle avec comparateur
+- **Najaar** - Site institutionnel avec système de donations et blog multilingue
+- **TPM RH Consulting** - Site professionnel RH avec espace client et booking
+
+#### 🎨 Design UX/UI
+- **Refonte SamaRH** (Auchan Retail Sénégal) - Plateforme RH
+- **Refonte Senegrill** - Site de restaurant sénégalais
+- **Dashboard Talent Zone01** - Visualisation des performances étudiantes
+- **Forum Zone01** - Réseau social des talents
+- **Refonte ISDD** - Site institutionnel d'établissement
 
 ---
 
@@ -107,20 +131,13 @@ Je suis **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), développeur
 
 ```typescript
 const currentFocus = {
-  formation: "Zone01 Dakar - Peer-to-peer learning & projets complexes",
-  development: ["Rust", "Go", "JavaScript", "Flutter"],
-  specialization: ["Full-Stack Development", "WordPress Plugins", "AI/ML"],
-  interests: ["Performance Optimization", "System Architecture", "UI/UX Design"],
-  availability: "Ouvert aux opportunités et collaborations"
+  position: "Développement Full-Stack Junior - Zone01 Dakar",
+  stack: ["Go", "Rust", "JavaScript", "HTML/CSS"],
+  focus: ["Backend Architecture", "Game Development", "UX/UI Design"],
+  experience: "+7 ans",
+  availability: "Ouvert aux opportunités"
 };
 ```
-
-#### 🔭 Actuellement en train de...
-- Développer des applications web et mobiles performantes avec Rust, Go et Flutter
-- Créer des plugins WordPress personnalisés pour des solutions e-commerce avancées
-- Explorer l'intégration de l'IA dans des projets concrets
-- Contribuer à des projets open source et partager mes connaissances
-- Concevoir des interfaces utilisateur qui allient esthétique et fonctionnalité
 
 ---
 
@@ -130,13 +147,15 @@ const currentFocus = {
 
 | Domaine | Compétences |
 |---------|------------|
-| **Backend** | Go, Rust, PHP/Laravel, Ruby, Node.js |
-| **Frontend** | JavaScript, Flutter, Tailwind CSS, Bootstrap |
-| **Database** | PostgreSQL, MySQL, SQLite |
-| **DevOps** | Docker, Git, CI/CD |
-| **AI/ML** | Python, TensorFlow, Neural Networks |
-| **Design** | Figma, Adobe Suite (XD, Photoshop, Illustrator) |
-| **CMS** | WordPress, WooCommerce, Plugin Development |
+| **Backend** | Go, Rust, Node.js, Fiber, TCP/IP, WebSocket, API RESTful, GraphQL |
+| **Frontend** | JavaScript, HTML5, CSS3, Tailwind CSS, D3.js, ECharts, Canvas API, SPA |
+| **Database** | PostgreSQL, SQLite, MySQL |
+| **DevOps** | Docker, Git, Coolify, Vercel, VSCode, Postman |
+| **Game Dev** | Bevy, SDL2, Rapier3D, Game Design, Multiplayer, Physique 2D/3D |
+| **AI/ML** | Python, R, Deep Learning, Machine Learning, Data Analytics |
+| **Design** | Figma, Adobe Suite (XD, Photoshop, Illustrator), Canva, UX/UI |
+| **CMS** | WordPress, WooCommerce (+10 projets e-commerce) |
+| **Soft Skills** | Créativité, Communication, Discipline, Gestion de Projet, Adaptabilité |
 
 </div>
 
@@ -153,10 +172,58 @@ const currentFocus = {
 
 ---
 
-### 🏆 Trophées GitHub
+### 🎖️ Accomplissements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i2sac&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophées GitHub" />
+
+| 🏅 Réalisation | 📅 Année | 🔗 Description |
+|---------------|----------|----------------|
+| **Zone01 Dakar - Full-Stack Junior** | 2025 | 2 ans de formation intensive peer-to-peer |
+| **Master 1 IA & Ingénierie des Données** | 2020-2022 | Université Iba Der Thiam de Thiès |
+| **Licence Management Informatisé** | 2016-2019 | Université Iba Der Thiam de Thiès |
+| **Data Science & Analytics** | 2022 | Certifications Udemy & LinkedIn Learning |
+| **+10 Sites E-commerce WordPress** | 2023-2025 | Projets clients internationaux |
+| **+15 Projets Techniques Go/Rust** | 2024-2025 | Game dev, networking, algorithms |
+
+</div>
+
+---
+
+### 💡 Code Snippet du Moment
+
+```rust
+// Serveur TCP haute performance avec Tokio
+use tokio::net::TcpListener;
+use tokio::io::{AsyncReadExt, AsyncWriteExt};
+
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let listener = TcpListener::bind("127.0.0.1:8080").await?;
+    println!("🚀 Server running on port 8080");
+    
+    loop {
+        let (mut socket, addr) = listener.accept().await?;
+        println!("✅ New connection from: {}", addr);
+        
+        tokio::spawn(async move {
+            let mut buffer = [0; 1024];
+            match socket.read(&mut buffer).await {
+                Ok(n) if n > 0 => {
+                    socket.write_all(&buffer[..n]).await.ok();
+                }
+                _ => println!("❌ Connection closed"),
+            }
+        });
+    }
+}
+```
+
+<div align="center">
+
+**💻 Stack principale** : Go 🐹 | Rust 🦀 | JavaScript ⚡ | HTML/CSS 🎨
+
+**🎯 +7 ans d'expérience** | **� +25 projets** | **🌍 Clients internationaux**
+
 </div>
 
 ---
@@ -218,24 +285,32 @@ Je suis ouvert aux opportunités de collaboration, discussions techniques et éc
 
 ### 💫 About Me
 
-I'm **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), a passionate full-stack developer and creative entrepreneur, specializing in creating innovative digital solutions that combine technical performance and exceptional user experience.
+I'm **Louis Issac Jean Samba Diouf** ([@i2sac](https://github.com/i2sac)), a Junior Full-Stack Developer passionate about technological innovation. I combine technical expertise in **Go, Rust, and JavaScript** with a strong design sensibility. My journey combines high-performance backend development, game development, and intuitive user interface creation.
+
+#### 🎓 Education & Background
+
+**Graduate** in Computerized Management of Organizations with a **Master 1 in Artificial Intelligence and Data Engineering** (Iba Der Thiam University of Thiès, 2020-2022), I've honed my skills through experiences in digital marketing, freelance web development, and intensive training at **Zone01 Dakar**.
 
 #### 🎯 Technical Expertise
 
-**My technical expertise** covers a wide range of modern technologies:
+**My expertise** covers a wide range of modern technologies:
 
-- **🦀 System Languages**: Rust, Go for high-performance, secure, and concurrent applications
-- **🌐 Web & Mobile Development**: JavaScript, Dart/Flutter, PHP/Laravel, Ruby for immersive experiences
-- **🤖 Artificial Intelligence**: Machine Learning, Deep Learning, neural networks for intelligent solutions
-- **🎨 Design & Creativity**: Figma, Adobe XD, Photoshop, Illustrator for elegant interfaces
-- **🔧 DevOps & Infrastructure**: Docker, PostgreSQL, containerized and scalable architectures
-- **🛒 E-commerce**: WordPress, WooCommerce, WCFM - custom plugin development
+- **🦀 High-Performance Backend**: Go, Rust for secure, concurrent, high-performance applications (TCP/IP, WebSocket, RESTful API, GraphQL)
+- **🌐 Modern Frontend**: JavaScript, HTML5, CSS3, Tailwind CSS, D3.js, ECharts for reactive and elegant interfaces
+- **🎮 Game Development**: Bevy, SDL2, Rapier3D, custom game engines, 2D/3D physics, procedural generation
+- **🎨 Design & Creativity**: Figma, Adobe XD, Photoshop, Illustrator for custom UX/UI experiences
+- **🔧 DevOps & Tools**: Docker, Git, Coolify, Vercel, PostgreSQL, SQLite
+- **🤖 Data Science**: Machine Learning, Deep Learning, Python, R, Data Analytics
+- **� E-commerce**: WordPress, WooCommerce - development and management (+10 projects)
 
-#### 🏢 Professional Background
+#### 🏢 Professional Experience
 
-**Talent at Zone01 Dakar** - Intensive software development and complex problem-solving training with a peer-to-peer approach and challenging technical projects.
+- **🎓 Junior Full-Stack Developer** - Zone01 Dakar (2025 - 2 years)
+- **💻 Freelance Web Developer & Graphic Designer** - AFRICANTINE, Dakar (2023 - 1 year 9 months)
+- **📊 Webmaster Assistant** (Digital Marketing & Analytics) - SOBOA, Dakar (2022 - 2 years 6 months)
+- **📞 Customer Service Advisor** - INTELCIA, Thiès (2020 - 7 months)
 
-> "Innovation is born from curiosity. Every unknown technology is a learning opportunity, every bug is a disguised lesson." 🚀
+> "From UX/UI design to production deployment, I orchestrate the complete chain to deliver high-performance and accessible experiences." 🚀
 
 ---
 
@@ -276,23 +351,39 @@ I'm **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), a passionate ful
 
 ### 🎯 Projects & Achievements
 
-#### 💻 Full-Stack Development
-- **High-Performance Web Applications**: Design and development of modern web platforms with JavaScript, PHP/Laravel and modern frameworks
-- **Robust Backend Architecture**: Scalable systems with Go and Rust (TCP/IP servers, real-time forums, high-performance network applications)
-- **E-commerce Solutions**: Custom WordPress/WooCommerce plugins with advanced features (product options management, WCFM vendor interfaces)
+#### 💻 Backend Development & Architecture
+- **NetCat** - Real-time TCP chat server for 10 users with goroutines, intelligent broadcasting and JSON persistence
+- **Forum** - Community platform with MVC architecture, secure authentication, CRUD system and containerized RESTful API
+- **Real-Time Forum** - Real-time forum with WebSocket, instant messaging, typing indicator and online/offline status
+- **Push-Swap** - Optimal sorting algorithm with two stacks, Turk implementation with minimal cost calculation (700-900 operations for 100 numbers)
 
-#### 🎮 Gaming & Interactive Projects
-- **Classic Web Games**: Recreation of Mario, Bomberman and Multiplayer FPS with JavaScript and Rust
-- **Interactive Applications**: Data management systems with intuitive and responsive user interfaces
+#### 🎮 Game Development
+- **Multiplayer FPS** - 3D shooter with UDP client-server architecture, Bevy engine, Rapier3D physics and procedural maze generation
+- **Smart Road** - Traffic simulation with AI junction management, collision detection and real-time flow optimization
+- **Bomberman DOM** - Real-time multiplayer game (2-4 players) with custom JS mini-framework, Go WebSocket backend and procedural map generation
+- **Anachronos** - 2D platformer with time travel, realistic physics, multi-era procedural generation and 60 FPS animations
+- **Filler** - Strategy AI for competitive game, convolution algorithms, Rayon parallel computing (< 5ms per turn)
 
-#### 🤖 Artificial Intelligence & Data Science
-- **Neural Networks**: From-scratch implementation for churn prediction and classification
-- **Machine Learning**: Predictive models and machine learning algorithms
-- **Data Visualization**: Interactive dashboards for economic analysis (ECOWAS data)
+#### 🌐 Full-Stack Web Development
+- **GraphQL Dashboard Zone01** - Interactive dashboard with D3.js/ECharts visualizations, JWT authentication and optimized GraphQL queries
+- **Mini Framework** - JavaScript framework from scratch, component-based architecture, reactive state management and lightweight virtual DOM
+- **Landing Page DevOps 01Talent** - Talent showcase platform (01Talent France)
 
-#### 🎨 Design & User Experience
-- **UI/UX Design**: Design of modern, elegant and accessible interfaces with Figma and Adobe XD
-- **Visual Identity**: Creation of logos, flyers and complete graphic charter with Adobe Suite
+#### 💼 WordPress E-commerce Projects (+10 sites)
+- **Senegrill** - Senegalese restaurant e-commerce site (USA) with catalog and integrated payment
+- **Live Love Baking** - Bakery e-commerce with online order management
+- **Yvress Boutique** - Fashion store with inventory management and advanced filters
+- **BellaShop 221** - Cosmetics e-commerce with recommendation system
+- **S2 Baking Tools** - Professional baking tools with product comparator
+- **Najaar** - Institutional site with donation system and multilingual blog
+- **TPM RH Consulting** - Professional HR site with client area and booking
+
+#### 🎨 UX/UI Design
+- **SamaRH Redesign** (Auchan Retail Senegal) - HR Platform
+- **Senegrill Redesign** - Senegalese restaurant site
+- **Zone01 Talent Dashboard** - Student performance visualization
+- **Zone01 Forum** - Talent social network
+- **ISDD Redesign** - Institutional site
 
 ---
 
@@ -300,20 +391,13 @@ I'm **Louis Isaac Diouf** ([@i2sac](https://github.com/i2sac)), a passionate ful
 
 ```typescript
 const currentFocus = {
-  training: "Zone01 Dakar - Peer-to-peer learning & complex projects",
-  development: ["Rust", "Go", "JavaScript", "Flutter"],
-  specialization: ["Full-Stack Development", "WordPress Plugins", "AI/ML"],
-  interests: ["Performance Optimization", "System Architecture", "UI/UX Design"],
-  availability: "Open to opportunities and collaborations"
+  position: "Junior Full-Stack Developer - Zone01 Dakar",
+  stack: ["Go", "Rust", "JavaScript", "HTML/CSS"],
+  focus: ["Backend Architecture", "Game Development", "UX/UI Design"],
+  experience: "+7 years",
+  availability: "Open to opportunities"
 };
 ```
-
-#### 🔭 Currently working on...
-- Developing high-performance web and mobile applications with Rust, Go and Flutter
-- Creating custom WordPress plugins for advanced e-commerce solutions
-- Exploring AI integration in real-world projects
-- Contributing to open source projects and sharing my knowledge
-- Designing user interfaces that combine aesthetics and functionality
 
 ---
 
@@ -323,13 +407,15 @@ const currentFocus = {
 
 | Domain | Skills |
 |--------|--------|
-| **Backend** | Go, Rust, PHP/Laravel, Ruby, Node.js |
-| **Frontend** | JavaScript, Flutter, Tailwind CSS, Bootstrap |
-| **Database** | PostgreSQL, MySQL, SQLite |
-| **DevOps** | Docker, Git, CI/CD |
-| **AI/ML** | Python, TensorFlow, Neural Networks |
-| **Design** | Figma, Adobe Suite (XD, Photoshop, Illustrator) |
-| **CMS** | WordPress, WooCommerce, Plugin Development |
+| **Backend** | Go, Rust, Node.js, Fiber, TCP/IP, WebSocket, RESTful API, GraphQL |
+| **Frontend** | JavaScript, HTML5, CSS3, Tailwind CSS, D3.js, ECharts, Canvas API, SPA |
+| **Database** | PostgreSQL, SQLite, MySQL |
+| **DevOps** | Docker, Git, Coolify, Vercel, VSCode, Postman |
+| **Game Dev** | Bevy, SDL2, Rapier3D, Game Design, Multiplayer, 2D/3D Physics |
+| **AI/ML** | Python, R, Deep Learning, Machine Learning, Data Analytics |
+| **Design** | Figma, Adobe Suite (XD, Photoshop, Illustrator), Canva, UX/UI |
+| **CMS** | WordPress, WooCommerce (+10 e-commerce projects) |
+| **Soft Skills** | Creativity, Communication, Discipline, Project Management, Adaptability |
 
 </div>
 
@@ -346,10 +432,58 @@ const currentFocus = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎖️ Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i2sac&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+| 🏅 Achievement | 📅 Year | 🔗 Description |
+|---------------|---------|----------------|
+| **Zone01 Dakar - Junior Full-Stack** | 2025 | 2 years intensive peer-to-peer training |
+| **Master 1 AI & Data Engineering** | 2020-2022 | Iba Der Thiam University of Thiès |
+| **Bachelor Computerized Management** | 2016-2019 | Iba Der Thiam University of Thiès |
+| **Data Science & Analytics** | 2022 | Udemy & LinkedIn Learning Certifications |
+| **+10 WordPress E-commerce Sites** | 2023-2025 | International client projects |
+| **+15 Go/Rust Technical Projects** | 2024-2025 | Game dev, networking, algorithms |
+
+</div>
+
+---
+
+### 💡 Code Snippet of the Moment
+
+```rust
+// High-performance TCP server with Tokio
+use tokio::net::TcpListener;
+use tokio::io::{AsyncReadExt, AsyncWriteExt};
+
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let listener = TcpListener::bind("127.0.0.1:8080").await?;
+    println!("🚀 Server running on port 8080");
+    
+    loop {
+        let (mut socket, addr) = listener.accept().await?;
+        println!("✅ New connection from: {}", addr);
+        
+        tokio::spawn(async move {
+            let mut buffer = [0; 1024];
+            match socket.read(&mut buffer).await {
+                Ok(n) if n > 0 => {
+                    socket.write_all(&buffer[..n]).await.ok();
+                }
+                _ => println!("❌ Connection closed"),
+            }
+        });
+    }
+}
+```
+
+<div align="center">
+
+**💻 Main stack**: Go 🐹 | Rust 🦀 | JavaScript ⚡ | HTML/CSS 🎨
+
+**🎯 +7 years experience** | **📊 +25 projects** | **🌍 International clients**
+
 </div>
 
 ---
